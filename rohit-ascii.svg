@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 78" width="370" height="78">
+  <rect width="370" height="78" fill="#0d1117"/>
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 7px;
+      fill: #8b949e;
+      white-space: pre;
+    }
+    .cursor {
+      fill: #8b949e;
+    }
+  </style>
+
+  <clipPath id="clip_0">
+    <rect x="0" y="10.000000000000002" height="8.553643724696355" width="0">
+      <animate attributeName="width" from="0" to="370" begin="0.0s" dur="1.4000000000000001s" fill="freeze" />
+    </rect>
+  </clipPath>
+  
+  <g clip-path="url(#clip_0)">
+    <text x="10" y="16.553643724696357" class="text">                                                                            </text>
+  </g>
+  
+  <rect x="10" y="11.000000000000002" width="7.302631578947368" height="4.5536437246963555" class="cursor" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" begin="0.0s" dur="1.4000000000000001s" fill="freeze" />
+    <animate attributeName="x" from="10" to="370" begin="0.0s" dur="1.4000000000000001s" fill="freeze" />
+  </rect>
+
+  <clipPath id="clip_1">
+    <rect x="0" y="16.553643724696357" height="8.553643724696355" width="0">
+      <animate attributeName="width" from="0" to="370" begin="0.26249999999999996s" dur="1.4000000000000001s" fill="freeze" />
+    </rect>
+  </clipPath>
+  
+  <g clip-path="url(#clip_1)">
+    <text x="10" y="23.10728744939271" class="text">  RRRRRRRRRRR     OOOOOOOOO    HHH     HHH  IIIIIIIIII  TTTTTTTTTTTTTTTT    </text>
+  </g>
+  
+  <rect x="10" y="17.553643724696357" width="7.302631578947368" height="4.5536437246963555" class="cursor" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" begin="0.26249999999999996s" dur="1.4000000000000001s" fill="freeze" />
+    <animate attributeName="x" from="10" to="370" begin="0.26249999999999996s" dur="1.4000000000000001s" fill="freeze" />
+  </rect>
+
+  <clipPath id="clip_2">
+    <rect x="0" y="23.107287449392707" height="8.553643724696355" width="0">
+      <animate attributeName="width" from="0" to="370" begin="0.5249999999999999s" dur="1.4000000000000001s" fill="freeze" />
+    </rect>
+  </clipPath>
+  
+  <g clip-path="url(#clip_2)">
+    <text x="10" y="29.660931174089065" class="text">  RRR      RRR  OOO       OOO  HHH     HHH     IIII     TTTTTTTTTTTTTTTT    </text>
+  </g>
+  
+  <rect x="10" y="24.107287449392707" width="7.302631578947368" height="4.5536437246963555" class="cursor" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" begin="0.5249999999999999s" dur="1.4000000000000001s" fill="freeze" />
+    <animate attributeName="x" from="10" to="370" begin="0.5249999999999999s" dur="1.4000000000000001s" fill="freeze" />
+  </rect>
+
+  <clipPath id="clip_3">
+    <rect x="0" y="29.660931174089065" height="8.553643724696355" width="0">
+      <animate attributeName="width" from="0" to="370" begin="0.7874999999999999s" dur="1.4000000000000001s" fill="freeze" />
+    </rect>
+  </clipPath>
+  
+  <g clip-path="url(#clip_3)">
+    <text x="10" y="36.21457489878542" class="text">  RRR      RRR  OOO       OOO  HHH     HHH     IIII           TTTT          </text>
+  </g>
+  
+  <rect x="10" y="30.660931174089065" width="7.302631578947368" height="4.5536437246963555" class="cursor" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" begin="0.7874999999999999s" dur="1.4000000000000001s" fill="freeze" />
+    <animate attributeName="x" from="10" to="370" begin="0.7874999999999999s" dur="1.4000000000000001s" fill="freeze" />
+  </rect>
+
+  <clipPath id="clip_4">
+    <rect x="0" y="36.21457489878542" height="8.553643724696355" width="0">
+      <animate attributeName="width" from="0" to="370" begin="1.0499999999999998s" dur="1.4000000000000001s" fill="freeze" />
+    </rect>
+  </clipPath>
+  
+  <g clip-path="url(#clip_4)">
+    <text x="10" y="42.76821862348178" class="text">  RRRRRRRRRRR   OOO       OOO  HHHHHHHHHHH     IIII           TTTT          </text>
+  </g>
+  
+  <rect x="10" y="37.21457489878542" width="7.302631578947368" height="4.5536437246963555" class="cursor" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" begin="1.0499999999999998s" dur="1.4000000000000001s" fill="freeze" />
+    <animate attributeName="x" from="10" to="370" begin="1.0499999999999998s" dur="1.4000000000000001s" fill="freeze" />
+  </rect>
+
+  <clipPath id="clip_5">
+    <rect x="0" y="42.76821862348177" height="8.553643724696355" width="0">
+      <animate attributeName="width" from="0" to="370" begin="1.3124999999999998s" dur="1.4000000000000001s" fill="freeze" />
+    </rect>
+  </clipPath>
+  
+  <g clip-path="url(#clip_5)">
+    <text x="10" y="49.32186234817813" class="text">  RRR     RRR   OOO       OOO  HHHHHHHHHHH     IIII           TTTT          </text>
+  </g>
+  
+  <rect x="10" y="43.76821862348177" width="7.302631578947368" height="4.5536437246963555" class="cursor" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" begin="1.3124999999999998s" dur="1.4000000000000001s" fill="freeze" />
+    <animate attributeName="x" from="10" to="370" begin="1.3124999999999998s" dur="1.4000000000000001s" fill="freeze" />
+  </rect>
+
+  <clipPath id="clip_6">
+    <rect x="0" y="49.32186234817813" height="8.553643724696355" width="0">
+      <animate attributeName="width" from="0" to="370" begin="1.5749999999999997s" dur="1.4000000000000001s" fill="freeze" />
+    </rect>
+  </clipPath>
+  
+  <g clip-path="url(#clip_6)">
+    <text x="10" y="55.87550607287449" class="text">  RRR      RRR  OOO       OOO  HHH     HHH     IIII           TTTT          </text>
+  </g>
+  
+  <rect x="10" y="50.32186234817813" width="7.302631578947368" height="4.5536437246963555" class="cursor" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" begin="1.5749999999999997s" dur="1.4000000000000001s" fill="freeze" />
+    <animate attributeName="x" from="10" to="370" begin="1.5749999999999997s" dur="1.4000000000000001s" fill="freeze" />
+  </rect>
+
+  <clipPath id="clip_7">
+    <rect x="0" y="55.87550607287449" height="8.553643724696355" width="0">
+      <animate attributeName="width" from="0" to="370" begin="1.8374999999999997s" dur="1.4000000000000001s" fill="freeze" />
+    </rect>
+  </clipPath>
+  
+  <g clip-path="url(#clip_7)">
+    <text x="10" y="62.429149797570844" class="text">  RRR       RRR   OOOOOOOOO    HHH     HHH  IIIIIIIIII        TTTT          </text>
+  </g>
+  
+  <rect x="10" y="56.87550607287449" width="7.302631578947368" height="4.5536437246963555" class="cursor" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" begin="1.8374999999999997s" dur="1.4000000000000001s" fill="freeze" />
+    <animate attributeName="x" from="10" to="370" begin="1.8374999999999997s" dur="1.4000000000000001s" fill="freeze" />
+  </rect>
+
+  <clipPath id="clip_8">
+    <rect x="0" y="62.429149797570844" height="8.553643724696355" width="0">
+      <animate attributeName="width" from="0" to="370" begin="2.0999999999999996s" dur="1.4000000000000001s" fill="freeze" />
+    </rect>
+  </clipPath>
+  
+  <g clip-path="url(#clip_8)">
+    <text x="10" y="68.9827935222672" class="text">                                                                            </text>
+  </g>
+  
+  <rect x="10" y="63.429149797570844" width="7.302631578947368" height="4.5536437246963555" class="cursor" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" begin="2.0999999999999996s" dur="1.4000000000000001s" fill="freeze" />
+    <animate attributeName="x" from="10" to="370" begin="2.0999999999999996s" dur="1.4000000000000001s" fill="freeze" />
+  </rect>
+</svg>

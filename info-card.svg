@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="320" viewBox="0 0 490 320">
+    
+    <style>
+        .line {
+            opacity: 0;
+            animation: fadeInSlide 0.5s ease-out forwards;
+        }
+        @keyframes fadeInSlide {
+            0% {
+                opacity: 0;
+                transform: translateX(-10px);
+            }
+            100% {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        .delay-0 { animation-delay: 0ms; }
+        .delay-1 { animation-delay: 150ms; }
+        .delay-2 { animation-delay: 300ms; }
+        .delay-3 { animation-delay: 450ms; }
+        .delay-4 { animation-delay: 600ms; }
+        .delay-5 { animation-delay: 750ms; }
+        .delay-6 { animation-delay: 900ms; }
+        .delay-7 { animation-delay: 1050ms; }
+        .delay-8 { animation-delay: 1200ms; }
+    </style>
+    <rect width="490" height="320" fill="#0d1117" rx="6" ry="6" stroke="#30363d" stroke-width="1.5"/>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#c9d1d9" transform="translate(20, 20)">
+        <g class="line delay-0">
+            <text y="15" font-size="15" font-weight="bold"><tspan fill="#39d353">rohitkumar8279</tspan><tspan fill="#ffffff">@github</tspan></text>
+        </g>
+        <g class="line delay-1">
+            <text y="35">─────────────────────</text>
+        </g>
+        <g class="line delay-2">
+            <text y="60"><tspan fill="#58a6ff">Now      </tspan><tspan fill="#ffffff">→ B.Tech Student · Full Stack Developer</tspan></text>
+        </g>
+        <g class="line delay-3">
+            <text y="85"><tspan fill="#39d353">Stack    </tspan><tspan fill="#ffffff">→ JavaScript, Python, React, Node.js</tspan></text>
+        </g>
+        <g class="line delay-4">
+            <text y="110"><tspan fill="#bc8cff">AI/ML    </tspan><tspan fill="#ffffff">→ TensorFlow, PyTorch, Deep Learning</tspan></text>
+        </g>
+        <g class="line delay-5">
+            <text y="135"><tspan fill="#d29922">Projects </tspan><tspan fill="#ffffff">→ Air Quality Intelligence, Interview Agent</tspan></text>
+        </g>
+        <g class="line delay-6">
+            <text y="160"><tspan fill="#f85149">Research </tspan><tspan fill="#ffffff">→ Medical AI, FMR Thesis (BTP)</tspan></text>
+        </g>
+        <g class="line delay-7">
+            <text y="185"><tspan fill="#58a6ff">Interests</tspan><tspan fill="#ffffff">→ AI Agents, System Design, Open Source</tspan></text>
+        </g>
+        <g class="line delay-8">
+            <g transform="translate(0, 230)"><rect x="0" y="0" width="15" height="15" fill="#010409"/><rect x="25" y="0" width="15" height="15" fill="#f85149"/><rect x="50" y="0" width="15" height="15" fill="#39d353"/><rect x="75" y="0" width="15" height="15" fill="#d29922"/><rect x="100" y="0" width="15" height="15" fill="#1f6feb"/><rect x="125" y="0" width="15" height="15" fill="#bc8cff"/><rect x="150" y="0" width="15" height="15" fill="#58a6ff"/><rect x="175" y="0" width="15" height="15" fill="#ffffff"/></g>
+        </g>
+    </g>
+</svg>
