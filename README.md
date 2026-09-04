@@ -12,7 +12,7 @@
 
 <a href="https://github.com/rohitkumar8279"><img src="https://img.shields.io/badge/GitHub-rohitkumar8279-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=05060B" alt="GitHub"/></a>
 &nbsp;&nbsp;
-<a href="mailto:rohitkumar8279@gmail.com"><img src="https://img.shields.io/badge/rohitkumar8279%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05060B" alt="Email"/></a>
+<a href="mailto:rk1001291@gmail.com"><img src="https://img.shields.io/badge/rk1001291%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05060B" alt="Email"/></a>
 
 <img src="./footer.svg" alt="" width="100%"/>
 
