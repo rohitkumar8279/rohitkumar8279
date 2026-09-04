@@ -6,7 +6,7 @@
 
 <img src="./tech.svg" alt="Tech Stack" width="100%"/>
 
-<img src="./focus.svg" alt="Focus Areas" width="100%"/>
+<img src="./focus_areas.svg" alt="Focus Areas" width="100%"/>
 
 <img src="./connect.svg" alt="Let's Connect" width="100%"/>
 
