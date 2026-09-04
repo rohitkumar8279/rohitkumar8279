@@ -1,12 +1,19 @@
 <div align="center">
-<h3><code>rohit@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-<br><br>
-<h3><code>rohit@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./rohit-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
-  </tr>
-</table>
+
+<img src="./header.svg" alt="Hi, I'm Rohit" width="100%"/>
+
+<img src="./academic.svg" alt="Academic Journey" width="100%"/>
+
+<img src="./tech.svg" alt="Tech Stack" width="100%"/>
+
+<img src="./focus.svg" alt="Focus Areas" width="100%"/>
+
+<img src="./connect.svg" alt="Let's Connect" width="100%"/>
+
+<a href="https://github.com/rohitkumar8279"><img src="https://img.shields.io/badge/GitHub-rohitkumar8279-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=05060B" alt="GitHub"/></a>
+&nbsp;&nbsp;
+<a href="mailto:rohitkumar8279@gmail.com"><img src="https://img.shields.io/badge/rohitkumar8279%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05060B" alt="Email"/></a>
+
+<img src="./footer.svg" alt="" width="100%"/>
+
 </div>
