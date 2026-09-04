@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 392" width="100%" role="img" aria-label="Tech Stack">
+<defs>
+<linearGradient id="tcard" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".14"/><stop offset="1" stop-color="#ffffff" stop-opacity=".035"/></linearGradient>
+<linearGradient id="tpanel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".045"/><stop offset="1" stop-color="#ffffff" stop-opacity=".015"/></linearGradient>
+<radialGradient id="tg0" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#659AD2" stop-opacity=".55"/><stop offset="1" stop-color="#659AD2" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg1" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FFD845" stop-opacity=".55"/><stop offset="1" stop-color="#FFD845" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg2" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#EE4C2C" stop-opacity=".55"/><stop offset="1" stop-color="#EE4C2C" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg3" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#F7DF1E" stop-opacity=".55"/><stop offset="1" stop-color="#F7DF1E" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg4" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#61DAFB" stop-opacity=".55"/><stop offset="1" stop-color="#61DAFB" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg5" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#83CD29" stop-opacity=".55"/><stop offset="1" stop-color="#83CD29" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg6" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#E44D26" stop-opacity=".55"/><stop offset="1" stop-color="#E44D26" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg7" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#2965F1" stop-opacity=".55"/><stop offset="1" stop-color="#2965F1" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg8" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FFD23F" stop-opacity=".55"/><stop offset="1" stop-color="#FFD23F" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg9" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FF9D2E" stop-opacity=".55"/><stop offset="1" stop-color="#FF9D2E" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg10" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#F05033" stop-opacity=".55"/><stop offset="1" stop-color="#F05033" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg11" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#E6EDF3" stop-opacity=".55"/><stop offset="1" stop-color="#E6EDF3" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg12" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#2496ED" stop-opacity=".55"/><stop offset="1" stop-color="#2496ED" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg13" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#22A7F2" stop-opacity=".55"/><stop offset="1" stop-color="#22A7F2" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg14" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#3E9BCD" stop-opacity=".55"/><stop offset="1" stop-color="#3E9BCD" stop-opacity="0"/></radialGradient>
+<radialGradient id="tg15" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#4FAA41" stop-opacity=".55"/><stop offset="1" stop-color="#4FAA41" stop-opacity="0"/></radialGradient>
+<filter id="ts" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#000" flood-opacity=".45"/></filter>
+<linearGradient id="pnl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#080B16"/></linearGradient><linearGradient id="stx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#7CC4FF"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient><linearGradient id="pbr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".38"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".07"/><stop offset="1" stop-color="#8B5CF6" stop-opacity=".38"/></linearGradient><pattern id="pdots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#9FC4FF" opacity=".05"/></pattern><linearGradient id="phl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".30"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+    .tile{opacity:0;animation:pop .75s cubic-bezier(.34,1.56,.64,1) forwards}
+    @keyframes pop{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+    .float{animation:fl 3.4s ease-in-out infinite}
+    @keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+    .ico{transform-box:fill-box;transform-origin:center;animation:sw 5s ease-in-out infinite}
+    @keyframes sw{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(5deg)}}
+    .halo{transform-box:fill-box;transform-origin:center;animation:br 3.6s ease-in-out infinite}
+    @keyframes br{0%,100%{opacity:.0;transform:scale(.7)}50%{opacity:.8;transform:scale(1)}}
+    .lbl{opacity:0;animation:lf .6s ease forwards}
+    @keyframes lf{to{opacity:1}}
+    
+.e0{animation-delay:0.1s}.f0{animation-delay:-0.0s}.s0{animation-delay:-0.0s}.h0{animation-delay:0.0s}.l0{animation-delay:0.45s}
+.e1{animation-delay:0.18s}.f1{animation-delay:-0.16s}.s1{animation-delay:-0.22s}.h1{animation-delay:0.12s}.l1{animation-delay:0.53s}
+.e2{animation-delay:0.26s}.f2{animation-delay:-0.32s}.s2{animation-delay:-0.44s}.h2{animation-delay:0.24s}.l2{animation-delay:0.61s}
+.e3{animation-delay:0.34s}.f3{animation-delay:-0.48s}.s3{animation-delay:-0.66s}.h3{animation-delay:0.36s}.l3{animation-delay:0.69s}
+.e4{animation-delay:0.42s}.f4{animation-delay:-0.64s}.s4{animation-delay:-0.88s}.h4{animation-delay:0.48s}.l4{animation-delay:0.77s}
+.e5{animation-delay:0.5s}.f5{animation-delay:-0.8s}.s5{animation-delay:-1.1s}.h5{animation-delay:0.6s}.l5{animation-delay:0.85s}
+.e6{animation-delay:0.58s}.f6{animation-delay:-0.96s}.s6{animation-delay:-1.32s}.h6{animation-delay:0.72s}.l6{animation-delay:0.93s}
+.e7{animation-delay:0.66s}.f7{animation-delay:-1.12s}.s7{animation-delay:-1.54s}.h7{animation-delay:0.84s}.l7{animation-delay:1.01s}
+.e8{animation-delay:0.74s}.f8{animation-delay:-1.28s}.s8{animation-delay:-1.76s}.h8{animation-delay:0.96s}.l8{animation-delay:1.09s}
+.e9{animation-delay:0.82s}.f9{animation-delay:-1.44s}.s9{animation-delay:-1.98s}.h9{animation-delay:1.08s}.l9{animation-delay:1.17s}
+.e10{animation-delay:0.9s}.f10{animation-delay:-1.6s}.s10{animation-delay:-2.2s}.h10{animation-delay:1.2s}.l10{animation-delay:1.25s}
+.e11{animation-delay:0.98s}.f11{animation-delay:-1.76s}.s11{animation-delay:-2.42s}.h11{animation-delay:1.32s}.l11{animation-delay:1.33s}
+.e12{animation-delay:1.06s}.f12{animation-delay:-1.92s}.s12{animation-delay:-2.64s}.h12{animation-delay:1.44s}.l12{animation-delay:1.41s}
+.e13{animation-delay:1.14s}.f13{animation-delay:-2.08s}.s13{animation-delay:-2.86s}.h13{animation-delay:1.56s}.l13{animation-delay:1.49s}
+.e14{animation-delay:1.22s}.f14{animation-delay:-2.24s}.s14{animation-delay:-3.08s}.h14{animation-delay:1.68s}.l14{animation-delay:1.57s}
+.e15{animation-delay:1.3s}.f15{animation-delay:-2.4s}.s15{animation-delay:-3.3s}.h15{animation-delay:1.8s}.l15{animation-delay:1.65s}.stt{opacity:0;animation:stfu .8s cubic-bezier(.34,1.56,.64,1) .1s forwards}@keyframes stfu{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}.stl{transform-origin:center;transform:scaleX(0);animation:stg 1s cubic-bezier(.16,1,.3,1) .35s forwards}@keyframes stg{to{transform:scaleX(1)}}</style>
+<rect x="1.5" y="1.5" width="997" height="389" rx="26" fill="url(#pnl)"/><rect x="1.5" y="1.5" width="997" height="389" rx="26" fill="url(#pdots)"/><rect x="1.5" y="1.5" width="997" height="389" rx="26" fill="none" stroke="url(#pbr)" stroke-width="1.2"/><rect x="200" y="1.2" width="600" height="1.6" rx="1" fill="url(#phl)"/>
+<text class="stt" x="500.0" y="40" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="4" fill="#EAF1FF">TECH STACK</text><rect class="stl" x="350.0" y="52" width="300" height="2.5" rx="2" fill="url(#stx)"/>
+<g transform="translate(0,58)">
+<g class="tile e0">
+<g class="float f0">
+<rect x="46.0" y="37.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="62.0" y="39.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h0" cx="94.0" cy="79.0" r="34" fill="url(#tg0)"/>
+<g transform="translate(71.00,56.00) scale(0.3594)"><g class="ico s0"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l0" x="94.0" y="135.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">Python</text>
+</g></g>
+<g class="tile e1">
+<g class="float f1">
+<rect x="162.0" y="37.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="178.0" y="39.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h1" cx="210.0" cy="79.0" r="34" fill="url(#tg1)"/>
+<g transform="translate(187.00,56.00) scale(0.3594)"><g class="ico s1"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l1" x="210.0" y="135.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">JavaScript</text>
+</g></g>
+<g class="tile e2">
+<g class="float f2">
+<rect x="278.0" y="37.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="294.0" y="39.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h2" cx="326.0" cy="79.0" r="34" fill="url(#tg2)"/>
+<g transform="translate(303.00,56.00) scale(0.3594)"><g class="ico s2"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l2" x="326.0" y="135.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">React</text>
+</g></g>
+<g class="tile e3">
+<g class="float f3">
+<rect x="394.0" y="37.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="410.0" y="39.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h3" cx="442.0" cy="79.0" r="34" fill="url(#tg3)"/>
+<g transform="translate(419.00,56.00) scale(0.3594)"><g class="ico s3"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l3" x="442.0" y="135.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">Node.js</text>
+</g></g>
+<g class="tile e4">
+<g class="float f4">
+<rect x="510.0" y="37.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="526.0" y="39.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h4" cx="558.0" cy="79.0" r="34" fill="url(#tg4)"/>
+<g transform="translate(535.00,56.00) scale(0.3594)"><g class="ico s4"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l4" x="558.0" y="135.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">HTML5</text>
+</g></g>
+<g class="tile e5">
+<g class="float f5">
+<rect x="626.0" y="37.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="642.0" y="39.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h5" cx="674.0" cy="79.0" r="34" fill="url(#tg5)"/>
+<g transform="translate(651.00,56.00) scale(0.3594)"><g class="ico s5"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l5" x="674.0" y="135.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">CSS3</text>
+</g></g>
+<g class="tile e6">
+<g class="float f6">
+<rect x="742.0" y="37.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="758.0" y="39.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h6" cx="790.0" cy="79.0" r="34" fill="url(#tg6)"/>
+<g transform="translate(767.00,56.00) scale(0.3594)"><g class="ico s6"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l6" x="790.0" y="135.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">PyTorch</text>
+</g></g>
+<g class="tile e7">
+<g class="float f7">
+<rect x="858.0" y="37.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="874.0" y="39.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h7" cx="906.0" cy="79.0" r="34" fill="url(#tg7)"/>
+<g transform="translate(883.00,56.00) scale(0.3594)"><g class="ico s7"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l7" x="906.0" y="135.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">MySQL</text>
+</g></g>
+<g class="tile e8">
+<g class="float f8">
+<rect x="46.0" y="187.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="62.0" y="189.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h8" cx="94.0" cy="229.0" r="34" fill="url(#tg8)"/>
+<g transform="translate(71.00,206.00) scale(0.3594)"><g class="ico s8"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l8" x="94.0" y="285.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">Linux</text>
+</g></g>
+<g class="tile e9">
+<g class="float f9">
+<rect x="162.0" y="187.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="178.0" y="189.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h9" cx="210.0" cy="229.0" r="34" fill="url(#tg9)"/>
+<g transform="translate(187.00,206.00) scale(0.3594)"><g class="ico s9"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l9" x="210.0" y="285.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">Git</text>
+</g></g>
+<g class="tile e10">
+<g class="float f10">
+<rect x="278.0" y="187.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="294.0" y="189.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h10" cx="326.0" cy="229.0" r="34" fill="url(#tg10)"/>
+<g transform="translate(303.00,206.00) scale(0.3594)"><g class="ico s10"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l10" x="326.0" y="285.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">GitHub</text>
+</g></g>
+<g class="tile e11">
+<g class="float f11">
+<rect x="394.0" y="187.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="410.0" y="189.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h11" cx="442.0" cy="229.0" r="34" fill="url(#tg11)"/>
+<g transform="translate(419.00,206.00) scale(0.3594)"><g class="ico s11"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l11" x="442.0" y="285.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">Docker</text>
+</g></g>
+<g class="tile e12">
+<g class="float f12">
+<rect x="510.0" y="187.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="526.0" y="189.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h12" cx="558.0" cy="229.0" r="34" fill="url(#tg12)"/>
+<g transform="translate(535.00,206.00) scale(0.3594)"><g class="ico s12"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l12" x="558.0" y="285.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">VS Code</text>
+</g></g>
+<g class="tile e13">
+<g class="float f13">
+<rect x="626.0" y="187.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="642.0" y="189.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h13" cx="674.0" cy="229.0" r="34" fill="url(#tg13)"/>
+<g transform="translate(651.00,206.00) scale(0.3594)"><g class="ico s13"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l13" x="674.0" y="285.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">MongoDB</text>
+</g></g>
+<g class="tile e14">
+<g class="float f14">
+<rect x="742.0" y="187.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="758.0" y="189.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h14" cx="790.0" cy="229.0" r="34" fill="url(#tg14)"/>
+<g transform="translate(767.00,206.00) scale(0.3594)"><g class="ico s14"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l14" x="790.0" y="285.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">AWS</text>
+</g></g>
+<g class="tile e15">
+<g class="float f15">
+<rect x="858.0" y="187.0" width="96" height="96" rx="22" fill="url(#tcard)" stroke="rgba(255,255,255,.20)" stroke-width="1.2" filter="url(#ts)"/>
+<rect x="874.0" y="189.0" width="64" height="2" rx="1" fill="#ffffff" opacity=".22"/>
+<circle class="halo h15" cx="906.0" cy="229.0" r="34" fill="url(#tg15)"/>
+<g transform="translate(883.00,206.00) scale(0.3594)"><g class="ico s15"><circle cx="64" cy="64" r="50" fill="none" stroke="currentColor" stroke-width="8"/><text x="64" y="75" text-anchor="middle" font-size="30" fill="currentColor">?</text></g></g>
+<text class="lbl l15" x="906.0" y="285.0" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing=".4" fill="#9DB2DA">C++</text>
+</g></g>
+</g>
+</svg>
